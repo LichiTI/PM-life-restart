@@ -15,7 +15,7 @@ globalThis.$_ = utils;
 globalThis.goto = async tag => {
     let url;
     switch (tag) {
-        case 'github': url = 'https://github.com/VickScarlet/lifeRestart'; break;
+        case 'github': url = 'https://github.com/Clouds-Heath/PM-life-restart'; break;
         case 'discord': url = 'https://discord.gg/U3qrf49NMQ'; break;
         case 'sponsor_afd': url = 'https://fanqienovel.com/author-page/778928633940139'; break;
         case 'sponsor_ddf': url = 'https://space.bilibili.com/1676408471/upload/video?spm_id_from=333.337.0.0'; break;

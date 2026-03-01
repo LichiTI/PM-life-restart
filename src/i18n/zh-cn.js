@@ -147,6 +147,8 @@ export default ({
     UI_UniqueWaTaShi: '独一无二的我',
     UI_UniqueWaTaShiContent: '\n6000万玩家中独一无二的角色卡\n所有属性 所有天赋 随机生成\n 每人只能生成一次',
     UI_GenerateNow: '立即生成',
+    UI_Talent_List: '天赋列表',
+    UI_Back_Home: '返回主页',
 
     M_NoRank: '别卷了，没有排行榜',
     M_PleaseSelectOne: '请选择一个名人',
